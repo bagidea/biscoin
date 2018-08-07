@@ -1,0 +1,9 @@
+Building Biscoin
+
+See doc/readme-qt.rst for instructions on building Biscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Biscoin.
+
+See doc/build-*.txt for instructions on building biscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Biscoin.
